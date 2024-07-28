@@ -39,7 +39,7 @@ read_editable_pdf/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/harshad208/read_editable_pdf.git
     cd yourproject
     ```
 
