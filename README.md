@@ -59,8 +59,8 @@ You can use the `ReadEditablePDF` class to extract text from a PDF and save it t
 * pstr_pdf_file_path:- path/to/file.pdf
 * output_put_file_path:- path/to/words.csv
 
-lobj_pdf_reader = ReadEditablePDF(log_file_path)
-lobj_pdf_reader.read_editable_pdf_words(pstr_pdf_file_path, output_put_file_path)
-lobj_pdf_reader.read_editable_pdf_blocks(pstr_pdf_file_path, output_put_file_path)
+* lobj_pdf_reader = ReadEditablePDF(log_file_path)
+* lobj_pdf_reader.read_editable_pdf_words(pstr_pdf_file_path, output_put_file_path)
+* lobj_pdf_reader.read_editable_pdf_blocks(pstr_pdf_file_path, output_put_file_path)
 
 
